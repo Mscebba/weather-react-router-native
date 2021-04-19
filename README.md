@@ -4,10 +4,10 @@ React Native, TypeScript, Styled Components, Apollo Client, AsyncStorage, React 
 
 ## Instalación
 
-**1:|** Clonar el [repositorio](git@github.com:Mscebba/meli-challenge.git) o descargar el [zip](https://github.com/Mscebba/meli-challenge/archive/refs/heads/master.zip)
+**1:|** Clonar el [repositorio](git@github.com:Mscebba/weather-react-router-native.git) o descargar el [zip](https://github.com/Mscebba/weather-react-router-native/archive/refs/heads/master.zip)
 
 ```bash
-$ git clone git@github.com:Mscebba/meli-challenge.git
+$ git clone git@github.com:Mscebba/weather-react-router-native.git
 ```
 
 **2:|** Instalar los paquetes usando npm
