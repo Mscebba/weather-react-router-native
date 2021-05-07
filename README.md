@@ -33,13 +33,3 @@ o con yarn:
 ```bash
 $ yarn start
 ```
-
-- Buscar localidades nuevas y poder guardarlas como favoritas (usando AsyncStorage y concatenandolas al array inicial).
-
-- Se tendrán en cuenta buenas prácticas
-
-- Se valorará cualquier funcionalidad extra que se quiera agregar.
-
-## Sugerencias
-
-Usar apollo, typescript y styled-componentes.
